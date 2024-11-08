@@ -10,7 +10,8 @@ Thank you for your interest in contributing to this repository! To ensure a smoo
 
 2. **Version Bumping:**
 
-   - Update the version in relevant files (e.g., `index.js?v=number`) to the next consecutive number when modifying any files.
+   - Update the version in relevant files (e.g., `index.js?v=number`) to the next consecutive num                             
+                 ber when modifying any files.
 
 3. **Code Formatting:**
 
